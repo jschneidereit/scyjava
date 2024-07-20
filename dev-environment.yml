@@ -49,8 +49,9 @@ dependencies:
   - pre-commit
   - pytest
   - pytest-cov
-  - sphinx
-  - sphinx_rtd_theme
+  - assertpy
+  - toml
+  # Project from source
   - pip
   - pip:
     - readthedocs-sphinx-search
